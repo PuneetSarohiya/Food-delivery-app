@@ -1,0 +1,14 @@
+.payment{
+    width: 100vh;
+    height: 72vh;
+    background-color: gray;
+    display: grid;
+    place-items: center;
+    margin-left: 380px;
+}
+
+.wrapper{
+    background-color: lightgray;
+    padding: 100px;
+    border-radius: 10px;
+}

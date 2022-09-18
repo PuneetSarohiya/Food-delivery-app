@@ -1,0 +1,19 @@
+.payment{
+    width: 100vh;
+    height: 100vh;
+    background-color: gray;
+    display: grid;
+    place-items: center;
+    margin:500px;
+    margin-left: 700px;
+}
+
+.wrapper{
+    background-color: lightgray;
+    padding: 100px;
+    border-radius: 10px;
+    margin-left: 800px;
+}
+.puneet{
+    margin-left: 700px;
+}
